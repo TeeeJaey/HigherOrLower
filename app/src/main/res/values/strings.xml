@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Higher Or Lower</string>
+    <string name="guess_the_number">Guess the number</string>
+    <string name="guess">Guess</string>
+    <string name="i_am_thinking_of_a_number">I am thinking of a Number</string>
+    <string name="restart">Restart</string>
+    <string name="i_am_thinking_of_a_number_between_1_30"><![CDATA[I am thinking of a number between 1 & 30]]></string>
+</resources>
